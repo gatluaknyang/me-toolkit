@@ -1,0 +1,14 @@
+{
+  "name": "me-toolkit",
+  "version": "1.0.0",
+  "description": "M&E Toolkit by Guuk Studio",
+  "homepage": "https://gatluaknyang.github.io/me-toolkit ",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  }
+}

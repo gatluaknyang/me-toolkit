@@ -1,0 +1,19 @@
+{
+  "name": "me-toolkit",
+  "version": "1.0.0",
+  "description": "Monitoring & Evaluation Toolkit by Guuk Studio for South Sudan",
+  "homepage": "https://gatluaknyang.github.io/me-toolkit/ ",
+  "author": "Guuk Studio <contact@guukstudio.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
